@@ -7,42 +7,42 @@ A maioria desses projetos consistem em EPs (Exércícios-Programas), que funcion
 Desde já agradeço a sua presença e se divirta interagindo com os meus trabalhos:
 
 ## Introdução a Programação
- EP1 - 
+ EP1 - Desafio do Calendário
 <br>
- EP2 - 
+ EP2 - Brasileirão (Jogo de Futebol)
 
 <br>
 
 ## Introdução a Análise de Algoritmos
- EP1 - 
+ EP1 - Trabalhando com Imagens
  <br>
  EP2 - 
 
 <br>
 
 ## Algoritmos e Estrutura de Dados I
- EP1 - 
+ EP1 - Entendendo Ponteiros em Listas
 
 <br>
 
 ## Computação Orientada a Objetos
- EP1 - 
+ EP1 - Pong! 
  <br>
- EP2 - 
+ EP2 - Refatoramento do Projetos
 
 <br>
 
 ## Algoritmos e Estrutura de Dados II
- EP1 - 
+ EP1 - Busca em Grafos
  <br>
- EP2 - 
+ EP2 - Arvores B+ (Estrutura e Operações)
 
 <br>
 
 ## Organização e Arquitetura de Computadores I
- EP1 - 
+ EP1 -  Simulador em C do funcionamento de um processador
  <br>
- EP2 - 
+ EP2 - Comparação da construção de código entre C e Assembly
 <br>
- EP3 - 
+ EP3 - Algoritmo de Ordenação desenvolvido em Assembly
 <br>
