@@ -7,18 +7,30 @@ A maioria desses projetos consistem em EPs (Exércícios-Programas), que funcion
 Desde já agradeço a sua presença e se divirta interagindo com os meus trabalhos:
 
 ## Introdução a Programação
- 
- 
+<br>
+ EP1 - 
+ EP2 - 
 ## Introdução a Análise de Algoritmos
- 
+<br>
+ EP1 - 
+ EP2 - 
  
 ## Algoritmos e Estrutura de Dados I
+<br>
+ EP1 - 
+ EP2 - 
  
- 
-##Computação Orientada a Objetos
- 
+## Computação Orientada a Objetos
+<br>
+ EP1 - 
+ EP2 - 
  
 ## Algoritmos e Estrutura de Dados II
- 
+<br>
+ EP1 - 
+ EP2 - 
  
 ## Organização e Arquitetura de Computadores I
+<br>
+ EP1 - 
+ EP2 - 
