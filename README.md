@@ -10,27 +10,29 @@ Desde já agradeço a sua presença e se divirta interagindo com os meus trabalh
 <br>
  EP1 - 
  EP2 - 
+<br>
 ## Introdução a Análise de Algoritmos
 <br>
  EP1 - 
  EP2 - 
- 
+<br>
 ## Algoritmos e Estrutura de Dados I
 <br>
  EP1 - 
  EP2 - 
- 
+<br>
 ## Computação Orientada a Objetos
 <br>
  EP1 - 
  EP2 - 
- 
+<br>
 ## Algoritmos e Estrutura de Dados II
 <br>
  EP1 - 
  EP2 - 
- 
+<br>
 ## Organização e Arquitetura de Computadores I
 <br>
  EP1 - 
  EP2 - 
+<br>
