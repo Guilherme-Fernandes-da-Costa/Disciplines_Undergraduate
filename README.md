@@ -28,7 +28,7 @@ Desde já agradeço a sua presença e se divirta interagindo com os meus trabalh
 ## Computação Orientada a Objetos
  EP1 - Pong! 
  <br>
- EP2 - Refatoramento do Projetos
+ EP2 - Refatoramento de Projetos
 
 <br>
 
