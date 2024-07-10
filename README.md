@@ -9,6 +9,7 @@ Desde já agradeço a sua presença e se divirta interagindo com os meus trabalh
 ## Introdução a Programação
 <br>
  EP1 - 
+<br>
  EP2 - 
 
 <br>
@@ -16,6 +17,7 @@ Desde já agradeço a sua presença e se divirta interagindo com os meus trabalh
 ## Introdução a Análise de Algoritmos
 <br>
  EP1 - 
+ <br>
  EP2 - 
 
 <br>
@@ -23,6 +25,7 @@ Desde já agradeço a sua presença e se divirta interagindo com os meus trabalh
 ## Algoritmos e Estrutura de Dados I
 <br>
  EP1 - 
+ <br>
  EP2 - 
 
 <br>
@@ -30,6 +33,7 @@ Desde já agradeço a sua presença e se divirta interagindo com os meus trabalh
 ## Computação Orientada a Objetos
 <br>
  EP1 - 
+ <br>
  EP2 - 
 
 <br>
@@ -37,6 +41,7 @@ Desde já agradeço a sua presença e se divirta interagindo com os meus trabalh
 ## Algoritmos e Estrutura de Dados II
 <br>
  EP1 - 
+ <br>
  EP2 - 
 
 <br>
@@ -44,5 +49,6 @@ Desde já agradeço a sua presença e se divirta interagindo com os meus trabalh
 ## Organização e Arquitetura de Computadores I
 <br>
  EP1 - 
+ <br>
  EP2 - 
 <br>
