@@ -21,4 +21,4 @@ Desde já agradeço a sua presença e se divirta interagindo com os meus trabalh
 5# Algoritmos e Estrutura de Dados II
 <br>
 
-6# rganização e Arquitetura de Computadores I
+6# Organização e Arquitetura de Computadores I
