@@ -12,13 +12,13 @@ Desde já agradeço a sua presença e se divirta interagindo com os meus trabalh
 ## Introdução a Análise de Algoritmos
  
  
-** Algoritmos e Estrutura de Dados I
+## Algoritmos e Estrutura de Dados I
  
  
-**Computação Orientada a Objetos
+##Computação Orientada a Objetos
  
  
-** Algoritmos e Estrutura de Dados II
+## Algoritmos e Estrutura de Dados II
  
  
-** Organização e Arquitetura de Computadores I
+## Organização e Arquitetura de Computadores I
