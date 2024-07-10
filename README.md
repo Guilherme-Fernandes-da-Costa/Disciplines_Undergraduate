@@ -22,8 +22,6 @@ Desde já agradeço a sua presença e se divirta interagindo com os meus trabalh
 
 ## Algoritmos e Estrutura de Dados I
  EP1 - 
- <br>
- EP2 - 
 
 <br>
 
@@ -45,4 +43,6 @@ Desde já agradeço a sua presença e se divirta interagindo com os meus trabalh
  EP1 - 
  <br>
  EP2 - 
+<br>
+ EP3 - 
 <br>
