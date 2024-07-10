@@ -6,10 +6,10 @@ A maioria desses projetos consistem em EPs (Exércícios-Programas), que funcion
 
 Desde já agradeço a sua presença e se divirta interagindo com os meus trabalhos:
 
-** Introdução a Programação
+## Introdução a Programação
  
  
-** Introdução a Análise de Algoritmos
+## Introdução a Análise de Algoritmos
  
  
 ** Algoritmos e Estrutura de Dados I
