@@ -6,5 +6,8 @@ Como parte de forma de avaliação foram feitos dois EPs, o primeiro tendo o obj
 o segundo calcularia a tabela do resultado final de um campeonato de futebol
 <br>
 ## [EP1]()
+safafafafadfad
 <br>
 ## [EP2]()
+asfaadfafafadfda
+<br>
