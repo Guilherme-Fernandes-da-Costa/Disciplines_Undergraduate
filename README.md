@@ -1,4 +1,4 @@
-# Undergraduate-Projecties
+# Undergraduate-Projects
 
 Olá a todos!
 Esse seguinte repositório tem o intúito de expor os projetos desenvolvidos durante o meu período no curso de Bacharel de Sistemas de Informação (BSI) 
