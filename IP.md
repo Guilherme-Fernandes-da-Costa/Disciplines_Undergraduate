@@ -5,6 +5,6 @@ Nela foi apresentado o pensamento lógico para o desenvolvimento de programadas 
 Como parte de forma de avaliação foram feitos dois EPs, o primeiro tendo o objetivo de calcular a data do encontro entre cinco grupos escolares e <br>
 o segundo calcularia a tabela do resultado final de um campeonato de futebol
 <br>
-## link[EP1][]
+## [EP1]()
 <br>
-## link[EP2][]
+## [EP2]()
