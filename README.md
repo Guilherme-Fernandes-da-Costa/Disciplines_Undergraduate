@@ -39,7 +39,7 @@ Desde já agradeço a sua presença e se divirta interagindo com os meus trabalh
 
 <br>
 
-## [Organização e Arquitetura de Computadores I]]()
+## [Organização e Arquitetura de Computadores I]()
  EP1 -  Simulador em C do funcionamento de um processador
  <br>
  EP2 - Comparação da construção de código entre C e Assembly
